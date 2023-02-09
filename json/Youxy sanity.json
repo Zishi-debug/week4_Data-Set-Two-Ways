@@ -1,0 +1,46 @@
+{
+   "sanity": [
+        {
+            "date": "Sun",
+            "sanity": 5,
+            "Hp": 100,
+            "reason": "Went to friend's home and submitted the proposal"
+        },
+        {
+            "date": "Mon",
+            "sanity": 50,
+            "Hp": 60,
+            "reason": "I hate C++"
+        },    
+        {
+            "date": "Tue",
+            "sanity": 40,
+            "Hp": 50,
+            "reason": "I hate json"
+        },
+        {
+            "date": "Wed",
+            "sanity": 90,
+            "Hp": 70,
+            "reason": "I love to date with json"
+        },
+        {
+            "date": "Thu",
+            "sanity": 100,
+            "Hp": 33,
+            "reason": "homework dayyyyyyy"
+        },
+        {
+            "date": "Fri",
+            "sanity": 30,
+            "Hp": 40,
+            "reason": "dying week"
+        },
+        {
+            "date": "Sat",
+            "sanity": 15,
+            "Hp":80,
+            "reason": "chilling at home"
+        }
+    ]
+}
