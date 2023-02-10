@@ -16,7 +16,7 @@ function setup() {
   //no animation / interaction chart
   noLoop();
 
-  fetch("./json/Youxy Sanity.json").then(function(response) {
+  fetch("./json/Youcy sanity.json").then(function(response) {
     return response.json();
   }).then(function(data) {
     
